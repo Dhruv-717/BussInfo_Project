@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BussInfo_Project</string>
+    <string name="business_corner">Business Corner</string>
+    <string name="contact_num">Contact no:- 1122334455</string>
+    <string name="address">Unity One Rohini Near Rohini West Metro Station,Bhagawan Mahavir Marg,Sector 10,Rohini,Delhi</string>
+    <string name="timings">11AM - 11PM</string>
+    <string name="delivery_min">Minimum Delivery : rs. 200</string>
+</resources>
